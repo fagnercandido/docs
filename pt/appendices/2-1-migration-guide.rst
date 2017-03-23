@@ -38,7 +38,7 @@ precisa copiá-lo para a pasta app/Controller também.
 Arquivos .htaccess
 ==================
 
-Os arquivos ``.htaccess`` foram alterados, você deve lembrar de atulizá-los ou a atualizar o
+Os arquivos ``.htaccess`` foram alterados, você deve lembrar de atualizá-los ou a atualizar o
 esquema de reescrita de ``URL re-writing`` para combinar com as atualizações feitas.
 
 Models
